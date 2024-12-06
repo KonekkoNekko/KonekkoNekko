@@ -1,4 +1,6 @@
-I am Muhammad Nabiel Setiawan, a fresh graduate in Information Systems from Telkom University, graduating with a GPA of 3.66/4.00 (cum laude). I have expertise in mobile and web development, specializing in Kotlin, Jetpack Compose, React.js, Laravel, and other modern technologies. My skills also include working with databases such as MySQL, RoomDB, and Firebase, and I am proficient in design patterns like MVC, MVVM, and OOP.
+# :smiley_cat: Muhammad Nabiel Setiawan
+
+I am Muhammad Nabiel Setiawan, a fresh graduate in Information Systems from Telkom University, graduating with a GPA of 3.66/4.00 (cum laude). I have expertise in mobile, web, and full-stack development. My skills also include working with databases.
 
 I have earned several certifications from Dicoding, covering topics in Android Development, Web Development, SQL, and Version Control.
 
