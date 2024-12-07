@@ -71,8 +71,8 @@ During my studies, I focused on application development, particularly in **full-
 - Kotlin Clean Architecture
 - Advanced React/React Native   
 - Flutter, Next.js, Vue.js, Angular  
-- Rust, Golang, Nest.js  
-- Laravel Livewire
+- Rust, Golang, Nest.js, Java SpringBoot
+- Laravel Livewire, SAP Development
 - Docker Containerization
 - Postgres, MongoDB
 
