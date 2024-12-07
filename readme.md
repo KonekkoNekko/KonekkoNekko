@@ -8,7 +8,7 @@ During my studies, I focused on application development, particularly in **full-
 
 ## 📚 Experience  
 - Participated in **Bangkit Academy 2023 Batch 2** as Android Learning Cohort, with in depth knowledge of Android Development by using **Android Studio**, **Kotlin**, and **Jetpack Compose**.  
-- Served as a **Practicum Assistant** at university, managing four classes in one semester: two class of Mobile Application Development with **React Native**, one class of Relational Database with **SQL**, and one Programming Algorithm with **Python**.
+- Served as a **Practicum Assistant** at university, managing four classes in one semester: two classes of Mobile Application Development with **React Native**, one class of Relational Database with **SQL**, and one Programming Algorithm with **Python**.
 - Built a final project of a Stock Management Information System using Barcode and Location Based Service. Utilized **Jetpack Compose**, **Firebase Firestore and Storage**, **ML-Kit Barcode Library**, and **Geofencing technique**.
 
 ---
@@ -79,5 +79,5 @@ During my studies, I focused on application development, particularly in **full-
 ---
 
 ## 📬 Contact  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-nabiel-setiawan-b94932259/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nabiel_setiawan/)
+Feel free to contact me!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-nabiel-setiawan-b94932259/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nabiel_setiawan/)
