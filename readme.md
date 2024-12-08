@@ -8,7 +8,7 @@ During my studies, I focused on application development, particularly in **full-
 
 ## 📚 Experience  
 - Participated in **Bangkit Academy 2023 Batch 2** as Android Learning Cohort, with in depth knowledge of Android Development by using **Android Studio**, **Kotlin**, and **Jetpack Compose**.  
-- Served as a **Practicum Assistant** at university, managing four classes in one semester: two classes of Mobile Application Development with **React Native**, one class of Relational Database with **SQL**, and one Programming Algorithm with **Python**.
+- Served as a **Practicum Assistant** at university, managing four classes in one semester: two classes of Mobile Application Development with **React Native**, one class of Relational Database with **SQL**, and one class of Programming Algorithm with **Python**.
 - Built a final project of a Stock Management Information System using Barcode and Location Based Service. Utilized **Jetpack Compose**, **Firebase Firestore and Storage**, **ML-Kit Barcode Library**, and **Geofencing technique**.
 
 ---
@@ -69,9 +69,9 @@ During my studies, I focused on application development, particularly in **full-
 
 ## 📱 Recent Android Projects
 - **Insomics Revamp** <a href="https://github.com/KonekkoNekko/insomics-revamp">(Repository)</a>, a manga reading app revamped from a final assignment project, using Mangaverse API from RapidAPI.
-- **Simple Meditation App** <a href="https://github.com/KonekkoNekko/simple-meditation-RN">(Repository)</a>, a simple meditation app with utilitizing React Context.
-- **Youtube Clone App** <a href="https://github.com/KonekkoNekko/youtube-clone-RN">(Repository)</a>, an attempt to clone Youtube using NativeWind UI in React Native.
-- **StockMobile** <a href="[https://github.com/KonekkoNekko/insomics-revamp](https://github.com/KonekkoNekko/StockMobile)">(Repository)</a>, aa Stock Management Information System using Barcode and Location Based Service. Utilized Jetpack Compose, Firebase Firestore and Storage, ML-Kit Barcode Library, and Geofencing technique.
+- **Simple Meditation App** <a href="https://github.com/KonekkoNekko/simple-meditation-RN">(Repository Link)</a>, a simple meditation app with utilitizing React Context.
+- **Youtube Clone App** <a href="https://github.com/KonekkoNekko/youtube-clone-RN">(Repository Link)</a>, an attempt to clone Youtube using NativeWind UI in React Native.
+- **StockMobile** <a href="https://github.com/KonekkoNekko/StockMobile">(Repository Link)</a>, aa Stock Management Information System using Barcode and Location Based Service. Utilized Jetpack Compose, Firebase Firestore and Storage, ML-Kit Barcode Library, and Geofencing technique.
 
 
 ---
